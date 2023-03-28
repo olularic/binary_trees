@@ -20,7 +20,7 @@ return (0);
 }
 
 	/* iterate through path */
-hile (tree)
+while (tree)
 {
 tree = tree->parent;
 depth++;
